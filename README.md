@@ -1,14 +1,10 @@
-## What is Sanctions Screening? 
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/Sami2199/Sancations-Screening/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Sanctions screening is a control used in the detection, prevention and disruption of financial crime and,in particular, sanctions risk. It is the comparison of one string of text against another to detect similarities which would suggest a possible match. It compares data sourced from an FI’s operations,such as customer and transactional records, against lists of names and other indicators of sanctioned parties or locations. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Terminology
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
+* Payer Name
 Syntax highlighted code block
 
 # Header 1
